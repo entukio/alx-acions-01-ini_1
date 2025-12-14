@@ -1,5 +1,5 @@
 // flask uruchomiony z linii poleceń
-
+// modyfikacja
 pipeline {
     agent any
     
